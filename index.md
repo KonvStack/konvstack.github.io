@@ -1,1 +1,2 @@
-[Projects](https://github.com/ffraaz)
+[Projects](https://github.com/ffraaz)  
+[About](about)

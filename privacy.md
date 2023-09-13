@@ -7,4 +7,4 @@ We take your privacy very seriously. We thus collect only the absolute minimum a
 Apart from that, no personal data ever leaves your device.
 
 Our Privacy Policy might change from time to time. When we change the policy, we will post the changes on this page.
-If you have any questions regarding our Privacy Policy, please [contact us](mailto:konvstack@gmail.com).
+If you have any questions regarding our Privacy Policy, please [contact us](mailto:contact@konvstack.com).

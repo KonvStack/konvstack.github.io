@@ -1,2 +1,2 @@
-[Projects](https://github.com/ffraaz)  
+[Solvable](https://apple.co/47ykDtS)  
 [About](about)
